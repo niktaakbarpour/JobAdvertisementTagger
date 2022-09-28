@@ -1,0 +1,13 @@
+FRONT_END:front_end,web
+BACK_END:back_end,web
+MOBILE:mobile,data
+AI:ai,data
+MANAGING:it,map
+NETWORK:network
+DEVOPS:devops
+DATABASE:database,tuning,data,ms
+FULL_STACK:full_stack,web
+SYS_ADMIN:sys_admin,system_admin
+SECURITY:security
+OS:os,operating_system
+TEST:test
